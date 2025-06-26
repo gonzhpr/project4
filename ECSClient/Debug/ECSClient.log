@@ -1,0 +1,136 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  SkinScroll.cpp
+  SendDlg.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SkinScroll.cpp(139,24): warning C4018: “<=”: 有符号/无符号不匹配
+  (编译源文件“/SkinScroll.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SkinScroll.cpp(239,14): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“/SkinScroll.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(143,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(227,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(230,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(278,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(279,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(290,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(354,17): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(380,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(361,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(556,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(557,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/SendDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\SendDlg.cpp(673,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/SendDlg.cpp”)
+  
+  ScrollParent.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ScrollParent.cpp(94,45): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“/ScrollParent.cpp”)
+  
+  RvFileSock.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(215,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/RvFileSock.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(218,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/RvFileSock.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(222,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/RvFileSock.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(227,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/RvFileSock.cpp”)
+  
+  Message.cpp
+  Login.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(68,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(69,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(87,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(88,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(92,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(128,26): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(129,22): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(176,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(178,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(201,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(202,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\Login.cpp(206,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/Login.cpp”)
+  
+  ECSClientDlg.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(553,30): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/ECSClientDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(555,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/ECSClientDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(571,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ECSClientDlg.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(572,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ECSClientDlg.cpp”)
+  
+  ECSClient.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClient.cpp(56,5): warning C4996: 'CWinApp::Enable3dControlsStatic': CWinApp::Enable3dControlsStatic is no longer needed. You should remove this call.
+  (编译源文件“/ECSClient.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ECSClient.cpp(66,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ECSClient.cpp”)
+  
+  ClientSock.cpp
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ClientSock.cpp(259,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ClientSock.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ClientSock.cpp(260,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ClientSock.cpp”)
+  
+C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\ECSClient\ClientSock.cpp(264,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/ClientSock.cpp”)
+  
+  BmpTree.cpp
+  正在生成代码...
+  ECSClient.vcxproj -> C:\Users\11799\Desktop\实战入门\Code\07\Project\Q友\Debug\ECSClient.exe
